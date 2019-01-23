@@ -3,6 +3,12 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 2
+
+Todd, it appears that this book had a lot of content in it and it might be a bit dense. I'm not sure, you might need to tell me from your perspective. I think your summary is useful, and I want to make sure that you are getting what you need from these resources. So, you might need to dig a little more into the modeling and maybe some basic topology. I hesitate to ask you to go too far into this as it can become very dense literature very fast. So, maybe we should talk in person about this quickly before you dive too far.
+
+* Score: 18/20
+
 ## Assignment 1
 
 Todd, this is really cool and something I hadn't heard of. I am excited to see what you come up with. I will say that the papers and books you have found are pretty desnse, so let me suggest that you focus on the introductory chapters of one book for next week rather than trying to digest too much. If you can summarize a few key chapters from one of these books (maybe the Barrett one?) that should help you start to focus your work a bit more.
